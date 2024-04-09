@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel Yu :smirk:
-###PhD student research in dynamic and control. 
-###:robot:干自动化请安抚机魂，机魂不悦有你好果子吃
+<h1>PhD student research in dynamic and control. </h1>
+<h1>:robot:干自动化请安抚机魂，机魂不悦有你好果子吃</h1>
 - :earth_asia: I am in Auckland
 - 🔭 I’m currently working on autonomous FS racecar.
 - 👯 I’m looking to collaborate on any robotic and GNC projects.
