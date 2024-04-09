@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Daniel Yu :smirk:</h1>h1>
+<h1>Hi there, I'm Daniel Yu :smirk:</h1>
 <h2>PhD student research in dynamic and control.</h2>
 <h2>:robot:干自动化请安抚机魂，机魂不悦有你好果子吃</h2>
 
