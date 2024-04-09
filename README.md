@@ -1,12 +1,15 @@
 ### Hi there, I'm Daniel Yu :smirk:
 <h1>PhD student research in dynamic and control. </h1>
 <h1>:robot:干自动化请安抚机魂，机魂不悦有你好果子吃</h1>
-- :earth_asia: I am in Auckland
-- 🔭 I’m currently working on autonomous FS racecar.
-- 👯 I’m looking to collaborate on any robotic and GNC projects.
-- 💬 Ask me about: Controls, automations.
-- 🌱 I’m currently learning reinforcement learnings and safety criteria of control systems.
-- :robot: The flesh is weak, LONG LIVE THE MACHINEEEEEEES!!!!!! (So Orin please work!!!!)
+
+<ul>
+<li>:earth_asia: I am in Auckland</li>
+<li>🔭 I’m currently working on autonomous FS racecar.</li>
+<li>👯 I’m looking to collaborate on any robotic and GNC projects.</li>
+<li>💬 Ask me about: Controls, automations.</li>
+<li>🌱 I’m currently learning reinforcement learnings and safety criteria of control systems.</li>
+<li>:robot: The flesh is weak, LONG LIVE THE MACHINEEEEEEES!!!!!! (So Orin please work!!!!)</li>
+</ul>
 
 - "There is no truth in flesh, only betrayal."
 - "There is no strength in flesh, only weakness."
