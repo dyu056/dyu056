@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Yu :smirk:</h1>
 <h3 align="center">PhD student research in dynamic and control.</h3>
 <h3>:robot:干自动化请安抚机魂，机魂不悦有你好果子吃</h2>
+- :earth_asia: I am in Auckland
 
 - 🔭 I’m currently working on **autonomous FS racecar.**
 
