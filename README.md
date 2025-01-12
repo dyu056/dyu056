@@ -3,10 +3,10 @@
 <h3 align="center">:robot:干自动化请安抚机魂，机魂不悦有你好果子吃</h3>
 
 <ul>
-<li> :earth_asia: I am in Auckland
-<li> 🔭 I’m currently working on **autonomous FS racecar.**
-<li> 🌱 I’m currently learning **reinforcement learnings and safety criteria of control systems.**
-<li> 👯 I’m looking to collaborate on **any robotic and GNC projects.**
+<li> :earth_asia: I am in Beijing
+<li> 🔭 I’m currently working on **Reward generataions.**
+<li> 🌱 I’m currently learning **Diffusions, reward geneartion, anything!.**
+<li> 👯 I’m looking to collaborate on **any robot manipulation projects.**
 <li> 💬 Ask me about **controls, automations.**
 <li> 📫 How to reach me **dyu200206.work@gmail.com**
 </ul>
